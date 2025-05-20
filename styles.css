@@ -1,0 +1,19 @@
+.brown{
+    background-color: brown;
+}
+
+.fruit{
+    background-color: yellow;
+}
+
+.long{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+}
+

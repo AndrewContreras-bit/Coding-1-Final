@@ -1,2 +1,5 @@
 # Coding-1-Final
  These are the starter files for F2021 Coding 1 Final
+
+
+Welcome to Fangtastic Bats, this is a website were you can discover many different types of bats ranging from fruit bats to long-nose bats. The website has a 3 pictaure of bats in a  carousel and 3 cards of my favorite bats at the bottom. I also included a contact page to talk about bats and a introduction page to get to know me. This website was created by me, Andrew Contreras, I just adore these fuzzy flying mammals. This beagn when I was just 7 years old, when I found a bat hanging upside down on a tree on our backyard. I found the little fella sleeping ,so I went inside to give the bat something to eat. Then the next day, the bat was gone ,but the fruit was also gone aswell. Since that experience, I shown a great interest in these little flyers.
