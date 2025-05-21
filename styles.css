@@ -1,19 +1,67 @@
-.brown{
-    background-color: brown;
-}
-
-.fruit{
-    background-color: yellow;
-}
-
-.long{
-    background-color: black;
-}
-
 h1{
     text-align: center;
     background-color: black;
     color: white;
-    border: 3px solid white;
+    border: 3px solid brown;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
 
+img{
+    height: 700px;
+    width: 550px;
+    border:3px solid black;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  font-size: 15px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Style the container/contact section */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+.text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 30px;
+    color: rgb(180, 106, 9);
+}
+
+.contact{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 30px;
+    color: red;
+}
